@@ -17,3 +17,30 @@ Tarefa Nº2:
 
 Tarefa Nº3:
 - Ao realizar o cadastro, e consequentemento o login, redirecionar diretamente o usuário para a tela de agendamento de consulta por meio do JavaScript (5 pontos)
+
+RICE:
+
+Funcionalidade:
+Armazenamento de dados dos usuários
+Salvamento automático após o cadastro 
+Redirecionamento para a tela de consulta
+
+R
+Todas
+Todas
+Todas
+
+I
+3
+2
+3
+
+C
+80%
+100%
+100%
+
+E
+8 Story Points
+5 Story Points
+5 Story Points
