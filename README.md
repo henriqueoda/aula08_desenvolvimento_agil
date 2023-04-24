@@ -10,4 +10,10 @@ Para que facilite o processo de identificação e desta forma possa marcar a min
 Tarefas técnicas:
 
 Tarefa Nº1:
-- 
+- Criar um banco de dados para armazenar as informações dos usuários (8 pontos)
+
+Tarefa Nº2:
+- Salvar automaticamente as informações dos usuários ao realizar cadastro (5 pontos)
+
+Tarefa Nº3:
+- Ao realizar o cadastro, e consequentemento o login, redirecionar diretamente o usuário para a tela de agendamento de consulta por meio do JavaScript (5 pontos)
