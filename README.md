@@ -44,3 +44,8 @@ E
 8 Story Points
 5 Story Points
 5 Story Points
+
+Prioridade
+75
+40
+25
